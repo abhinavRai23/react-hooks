@@ -1,0 +1,8 @@
+button {
+    color: white;
+    padding: 8px;
+}
+
+button+button {
+    margin-left: 16px;
+}
